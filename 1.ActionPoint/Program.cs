@@ -18,5 +18,6 @@ namespace _1.ActionPoint
                 Console.WriteLine(item);
             }
         }
+
     }
 }
